@@ -9,3 +9,7 @@
 <p align="left">
   🦄 Linguagens: <strong>Python</strong>.
 </p>
+
+<p>
+  🐱‍🏍 Informações: Feito no <strong>Google Colab</strong> para facilitar o acesso de meus colegas.
+</p>
